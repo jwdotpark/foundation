@@ -34,7 +34,7 @@ if found:
         print("""
             <html>
             <body>
-            <p>{} is a color.
+            <p style="color:v_color;">{} is a color.
             </p>
             </body>
             </html>""".format(v_color))
